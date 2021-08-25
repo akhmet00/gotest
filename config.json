@@ -1,0 +1,8 @@
+{
+  "Name": "postgres",
+  "Pass": "postgres",
+  "DbName": "postgres",
+  "Address": "localhost",
+  "DbPort": 5432,
+  "SSLMode": "disable"
+}
